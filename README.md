@@ -10,4 +10,5 @@ New devices can be seamlessly integrated into the system without modifying exist
 Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details.
 
 # UML Diagram
-<img width="1000" alt="image" src="https://github.com/aeroldtorregoza/commandPattern/assets/143488240/ed7cf9e8-0729-4a77-b2bf-71a377a0862b">
+<img width="992" alt="image" src="https://github.com/aeroldtorregoza/commandPattern/assets/143488240/f2f49740-15ec-4842-819f-030b37f2f162">
+
