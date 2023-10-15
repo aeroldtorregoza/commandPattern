@@ -8,6 +8,13 @@ You can control a variety of devices from a central hub or app, sending commands
 Each device has unique actions associated with these commands. For example, turning on the lights might involve changing their brightness level, while turning on the music player may involve playing a specific playlist.
 New devices can be seamlessly integrated into the system without modifying existing code. You want to ensure that adding a new device doesn't require changes to the central control logic.
 Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details.
+Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
+
+In your solution you must provide the following in your Github link account:
+
+  Problem statement (description of the problem. Just copy what is stated here.
+  UML Class Diagram
+  Uploaded java codes for the solution.
 
 # UML Diagram
 <img width="992" alt="image" src="https://github.com/aeroldtorregoza/commandPattern/assets/143488240/f2f49740-15ec-4842-819f-030b37f2f162">
