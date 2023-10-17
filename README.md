@@ -16,6 +16,6 @@ In your solution you must provide the following in your Github link account:
   UML Class Diagram
   Uploaded java codes for the solution.
 
-# UML Diagram
+# Class Diagram
 <img width="992" alt="image" src="https://github.com/aeroldtorregoza/commandPattern/assets/143488240/f2f49740-15ec-4842-819f-030b37f2f162">
 
